@@ -74,6 +74,8 @@ section {
     gap: 35px;
     margin: 0 auto;
     padding: 50px;
+    justify-content: center;
+    /*will take content in center position*/
 
 }
 
@@ -84,6 +86,11 @@ section {
     background-color: #FAFAFA;
     border-radius: 5px;
 
+}
+
+.pp2 {
+    border: 3px solid #FF5959;
+    border-radius: 5px;
 }
 
 .other-amount {
